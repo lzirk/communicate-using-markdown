@@ -1,4 +1,11 @@
 # This is an <h1> header, which is the largest
 ## This is an <h2> header
 ###### This is an <h6> header, which is the smallest
-  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) ![image](https://user-images.githubusercontent.com/122840823/214907968-bd02df31-65d0-40be-af77-35c3bf8c22bc.png)
+ ![image](https://user-images.githubusercontent.com/122840823/214909134-af22d39c-257a-4a86-9f71-8ad6a0b84509.png)
+```python
+Input: num1 = 5, num2 = 3
+Output: 8
+
+Input: num1 = 13, num2 = 6
+Output: 19
+```
