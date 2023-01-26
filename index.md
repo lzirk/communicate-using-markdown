@@ -9,3 +9,6 @@ Output: 8
 Input: num1 = 13, num2 = 6
 Output: 19
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
